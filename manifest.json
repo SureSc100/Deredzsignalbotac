@@ -1,0 +1,13 @@
+{
+  "name": "DeRedz Binary Bot",
+  "short_name": "DeRedzBot",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [{
+    "src": "icon.png",
+    "type": "image/png",
+    "sizes": "192x192"
+  }]
+}

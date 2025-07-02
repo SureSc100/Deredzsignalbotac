@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #0f172a;
+  color: #e2e8f0;
+  text-align: center;
+  padding: 1rem;
+}
+h1 {
+  font-size: 1.8rem;
+  color: #38bdf8;
+}
+.desc {
+  font-size: 1rem;
+  color: #cbd5e1;
+}
+#countdown {
+  font-size: 1.2rem;
+  margin: 1rem 0;
+  color: #fcd34d;
+}
+.signal-card {
+  background: #1e293b;
+  padding: 1rem;
+  margin: 1rem auto;
+  border-radius: 12px;
+  max-width: 500px;
+  box-shadow: 0 0 12px #334155;
+}
+.history-box {
+  margin-top: 2rem;
+}
